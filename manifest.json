@@ -1,0 +1,11 @@
+{
+	"id": "Image-Editor",
+	"name": "Image Editor",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Image Editor plugin for Obsidian",
+	"author": "nipanko",
+	"authorUrl": "https://nipanko.me",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
